@@ -8,3 +8,4 @@ To run the application on your computer you are required to do the following:
 * Go into the application folder: `cd docs-app`
 * Install dependancies: `npm install`
 * Start the application: `npm start`
+* Access the application through the address: `http://localhost:3000`

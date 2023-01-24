@@ -1,8 +1,9 @@
+import SwaggerUI from 'swagger-ui-react';
+import "swagger-ui-react/swagger-ui.css"
 
-import {RedocStandalone } from 'redoc';
 function App() {
   return (
-    <RedocStandalone specUrl="https://petstore.swagger.io/v2/swagger.json" />
+    <SwaggerUI url="/KHARA_1-starwars-openapi-spec2-0.1-resolved.json"/>
   );
 }
 

@@ -1,6 +1,6 @@
 #  Interactive Documentation Application
 
-This is an interactive documentation application for an API. It is a react application that uses Redoc to render an OpenAPI Specification in json.
+This is an interactive documentation application for an API. It is a react application that uses SwaggerUI to render an OpenAPI Specification in json.
 
 # Running the Application
 To run the application on your computer you are required to do the following:
